@@ -1,3 +1,4 @@
+/* SPACING */
 body {
     background-color: black;
     color: white;
@@ -12,22 +13,19 @@ body {
     overflow-wrap: break-word;
 }
 
-a:link, a:visited {
-    color: #F05454;
-}
-
 .content {
     max-width: 650px;
     margin: 0 auto;
     padding: 4rem 2rem;
 }
 
-#about-profile {
-    border-radius: 5px;
-    width: 200px;
+/* Text */
+a:link, a:visited {
+    color: #F05454;
+}
 
-    border-right: 2px #F05454 solid;
-    border-bottom: 2px #F05454 solid;
+.keyword {
+    color: #F05454;
 }
 
 .back-button {
@@ -38,6 +36,21 @@ a:link, a:visited {
     text-decoration: none;
 }
 
-.keyword {
+h2 {
     color: #F05454;
 }
+
+h3 {
+    text-decoration: underline;
+}
+
+/* About */
+#about-profile {
+    border-radius: 5px;
+    width: 200px;
+
+    border-right: 2px #F05454 solid;
+    border-bottom: 2px #F05454 solid;
+}
+
+/* Resume */
