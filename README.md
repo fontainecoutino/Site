@@ -6,7 +6,7 @@ Fontaine's personal site
 Since everyone has a portfolio site, here is mine.
 
 ## Demo 
-Here is the [live-demo]() of the site
+Here is the [live-demo](147.182.246.3) of the site
 <!-- TODO: Include actual live-demo -->
 
 ## Acknowledgments
